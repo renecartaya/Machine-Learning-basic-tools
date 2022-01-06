@@ -2,7 +2,7 @@
 
 Repository with a set of projects for basic Machine Learning applications including:
 
- 1) Regressiion set.
+ 1) Regression set.
  2) Classification set.
  3) Clustering set.
  4) Sentiment Analysis set.
