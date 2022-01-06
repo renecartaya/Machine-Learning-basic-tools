@@ -9,3 +9,5 @@ Repository with a set of projects for basic Machine Learning applications includ
  5) Recommender system set.
  6) Natural Language Processing.
  7) Artificial Neural Network.
+
+Some of the datasets used in the examples here are borrowed from José Portilla from Pierian Data. 
