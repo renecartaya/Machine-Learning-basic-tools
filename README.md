@@ -1,6 +1,6 @@
 # Machine-Learning-fundamental-tools
 
-Repository with a set of projects for basic Machine Learning applications including:
+The current repository consist of a set of projects for basic Machine Learning applications including:
 
  1) Regression set.
  2) Classification set.
