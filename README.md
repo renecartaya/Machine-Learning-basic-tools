@@ -12,4 +12,9 @@ The current repository consist of a set of projects for basic Machine Learning a
 
 Some of the datasets used in the examples here are borrowed from José Portilla from Pierian Data. 
 
-The folder includes some set of data to be used as sample for the testing of the tools, as is the case of the file "Adverstising.csv"
+The folder includes some set of data to be used as sample for the testing of the tools, as is the case of the files:
+
+ 1) Adverstising.csv
+ 2) hearing_test.csv
+
+
