@@ -18,6 +18,9 @@ The folder includes some set of data to be used as sample for the testing of the
  2) hearing_test.csv
  3) gene_expression.csv
 
-Additionally, this repository includes the implementation of Machine Learning algorithms for Signal Processing. 
-
+Additionally, this repository includes the implementation of Machine Learning algorithms for Signal Processing including:
+ 
+ 1) Fast Fourier Transform (FFT) method
+ 2) Power Spectral Density technique.
+ 3) Auto-correlation function.
 
