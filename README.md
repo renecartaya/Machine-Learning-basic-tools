@@ -18,4 +18,6 @@ The folder includes some set of data to be used as sample for the testing of the
  2) hearing_test.csv
  3) gene_expression.csv
 
+Additionally, this repository includes the implementation of Machine Learning algorithms for Signal Processing. 
+
 
