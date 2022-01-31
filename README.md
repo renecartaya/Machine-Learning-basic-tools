@@ -24,4 +24,5 @@ Additionally, this repository includes the implementation of Machine Learning al
  2) Power Spectral Density technique
  3) Auto-correlation function
  4) Wavelet Transform
+ 5) Neural Networks
 
